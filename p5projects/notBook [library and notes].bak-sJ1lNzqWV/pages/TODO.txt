@@ -1,0 +1,19 @@
+# things to convert and whatnot
+
+## old non-p5js sketches
+
+1. [red markov text](http://www.xradiograph.com/netart/017.html)
+1. [yellow text blobs](http://www.xradiograph.com/netart/016.html)
+1. [fast text](http://www.xradiograph.com/netart/011.html)
+
+
+## Might make use of
+
+1. <https://github.com/peacechen/FitText-UMD>
+
+
+# Notes on using this for notes
+
+Find an existing mini-CMS that can work in here, or roll-my-own?
+
+See [this codepen](https://codepen.io/coltborg/pen/EyzoJm) example that relies on a lot of CSS? All of the content is in the HTML, but we should be able to load it on-deman (provided all files are pre-listed)

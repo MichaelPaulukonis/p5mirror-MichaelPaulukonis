@@ -1,0 +1,8 @@
+<https://medium.com/creative-coding-space/style-transfer-x-generative-art-a2715191c8d9>
+
+uses <https://medium.com/creative-coding-space/meet-blobby-in-p5-js-5d9d99232400>
+
+[github repo](https://github.com/playgrdstar/styletransfer_x_generativeart)
+
+uses p5.js and ml5.js
+

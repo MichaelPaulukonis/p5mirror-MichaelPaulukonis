@@ -1,0 +1,21 @@
+- [halftone](https://www.interactiveshaderformat.com/sketches/3719)
+- <https://thebookofshaders.com/04/>
+- <https://p5js.org/reference/#/p5/shader>
+- <https://greyscalegorilla.com/tutorials/rgb-cmyk-arnold-shader/>
+- <https://www.shadertoy.com/view/ltfcRM>
+- <https://itp.nyu.edu/shows/spring2019/p5-js-shaders/>
+- <https://github.com/aferriss/p5jsShaderExamples>
+- <https://itp-xstory.github.io/p5js-shaders/#/>
+- <https://glitch.com/~recursive-noise-experiment>
+- <http://www.louiselessel.com/portfolio_page/p5shaders/>
+- <https://twgljs.org/>
+
+- <https://shadertoyunofficial.wordpress.com/>
+
+## Hydra
+- <https://github.com/ojack/hydra>
+- <https://hydra-editor.glitch.me/>
+- <https://twitter.com/_ojack_>
+- <https://sophiadigitalart.com/adding-custom-shaders-to-hydra-synth/>
+
+- actually, go look at the dedicated (Hydra page])[about:srcdoc#noise]

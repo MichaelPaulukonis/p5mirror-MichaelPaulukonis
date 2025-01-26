@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/addons/p5.sound.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/zturtledog/I_AM_UI/i-am-ui-new.js"></script>
+    <!--     <link rel="stylesheet" type="text/css" href="style.css" /> -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, zoom-factor=1.0, maximum-scale=1.0, user-scalable=no, user-zoom=no"
+    />
+  </head>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+
+      user-select: none;
+      touch-action: none;
+      -webkit-user-select: none;
+    }
+
+    canvas {
+      display: block;
+    }
+
+    input[type=text] {
+      width: 100%;
+      box-sizing: border-box;
+    }
+  </style>
+  <body>
+    <main></main>
+    <script>
+      let inptest;
+      let sldrtst = 0;
+      let slrtst2 = 0;
+      let srtst2d = { x: 0, y: 0 };
+      let chektst = false;
+
+      //-sys
+
+      document.addEventListener("touchmove", (e) => {}, { passive: false });
+
+      function setup() {
+        createCanvas(windowWidth, windowHeight);
+
+        inptest = new onelinetext("Wow!", 100, 100, 20);
+      }
+
+      function draw() {
+        background(220);
+        fill(0);
+
+        inptest.update();
+        inptest.draw();
+
+        if (inptest.select && keyIsDown(13)) {
+          inptest.text = ""
+        }
+
+        fill("#00000000");
+
+        sldrtst = vslider(sldrtst, 20, 70, 200, 0, 20);
+        slrtst2 = slider(slrtst2, 40, 70, 200, 0, 200);
+        srtst2d = slider2d(srtst2d, 70, 120, 100, 100, 0, 20, 0, 22, false, 1);
+
+        chektst = checkbox(chektst, 200, 115, 35, 105);
+
+        // console.log(JSON.stringify(srtst2d))
+
+        if (button(10, 10, 100, 50)) {
+          console.log("pressed1");
+        }
+
+        fill("#00000000");
+        if (button(145, 10, 100, 50)) {
+          console.log("pressed2");
+        }
+        uiupd();
+      }
+      
+      function windowResized() {
+        resizeCanvas(windowWidth, windowHeight);
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,27 @@
+
+## Coursera
+
+<https://www.coursera.org/learn/digitalmedia/>
+
+<https://freesound.org/>
+
+
+## Kadenze Nature of Code II
+
+<https://www.kadenze.com/courses/the-nature-of-code-ii/>
+
+
+## Skillshare
+
+### Programming Graphics I: Introduction to Generative Art 
+
+[Programming Graphics I: Introduction to Generative Art](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657)
+
+By [Joshua Davis](https://joshuadavis.com/)
+
+Using [HYPE framework](https://github.com/hype/HYPE_Processing)
+
+
+The `HYPE.pde` referenced in class can be found [here](https://github.com/hype/HYPE_Processing/tree/pde_staging)
+
+

@@ -1,0 +1,18 @@
+# glueing things together
+
+[Collage Machine](https://github.com/nicoleyimessier/collage-machine) allows user to create "shapes" from images, and collage-paint with those shapes. This is a neat trick. Processing code. P2 maybe? Since it does not work in P3
+
+## some sketches I've found that have different approaches
+- <https://editor.p5js.org/MichaelPaulukonis/sketches/_dFh18err>
+- <https://editor.p5js.org/MichaelPaulukonis/sketches/nynB4Ql57>
+- <https://editor.p5js.org/MichaelPaulukonis/sketches/Wj5LJFwlb>
+- <https://editor.p5js.org/MichaelPaulukonis/sketches/Tn8tJ8Kj5>
+- <https://editor.p5js.org/MichaelPaulukonis/sketches/JQwA0XDIH>
+- [dynamic mask](https://editor.p5js.org/MichaelPaulukonis/sketches/5rQaGc17o)
+
+- [shaders and masks and text](https://editor.p5js.org/MichaelPaulukonis/sketches/pdKh4NeTN) - not really collage, but... ???
+
+
+## some theory and practice
+
+- <http://www.urbanhonking.com/ideasfordozens/2013/01/14/making-photomosaics-in-processing/index.html>

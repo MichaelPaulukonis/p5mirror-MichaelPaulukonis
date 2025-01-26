@@ -1,0 +1,149 @@
+@-webkit-keyframes fade {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+nav ul {
+  margin: 1rem 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+}
+
+nav a {
+  margin: 0 1rem;
+  color: #566B78;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: flex;
+  align-items: flex-start;
+}
+
+.app>* {
+  display: none;
+}
+
+.app>*:last-child {
+  display: block;
+}
+
+.app>*:target {
+  display: block;
+  -webkit-animation: fade 300ms linear 1;
+  animation: fade 300ms linear 1;
+}
+
+.app>*:target~* {
+  display: none;
+}
+
+body {
+  background-color: #DDDDDD;
+  color: #566B78;
+  font-family: 'Inconsolata', monospace;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+strong {
+  color: #333;
+}
+
+a {
+  color: #000000;
+}
+
+header {
+  background-color: gray;
+  line-height: 1.2;
+  padding: 2vw 2em;
+  text-align: center;
+}
+
+header h1 {
+  color: #FFFFFF;
+  font-size: 2.5em;
+  text-transform: uppercase;
+}
+
+header a {
+  border: 2px solid #FFFFFF;
+  color: #FFFFFF;
+  border-radius: 4px;
+  font-size: 0.8em;
+  letter-spacing: 0.2em;
+  padding: 1em 2em;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: none 200ms;
+  transition-property: color, background, border;
+}
+
+header a:hover {
+  background: crimson;
+  border-color: crimson;
+}
+
+/* sublime-vivid */
+.header1 {
+  background: #FC466B;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #3F5EFB, #FC466B);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #3F5EFB, #FC466B);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+/* king-yna */
+.header2 {
+  background: #1a2a6c;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #fdbb2d, #b21f1f, #1a2a6c);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #fdbb2d, #b21f1f, #1a2a6c);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+.knowledgebase-header {
+  background: #f953c6;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #b91d73, #f953c6);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #b91d73, #f953c6);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 50em;
+  padding: 4em 2em;
+}

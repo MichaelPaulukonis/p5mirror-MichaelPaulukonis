@@ -1,0 +1,58 @@
+# Somethings
+
+[Matt Deslaurier article](https://mattdesl.svbtle.com/generative-art-with-nodejs-and-canvas)
+
+# Kandinksy
+A number of late-20s works by Kandinsky have been very influential on me, in ways that I cannot articulate well at the moment. I finally decided to generate some things in his style, and discovered it is a relatively well-trodden path. Hah! But I don't see any one version that I'm completely fond of - so, time for _synthesis_!!!
+
+
+## sketches I found
+In some cases, these were converted from Processing code
+
+- <https://editor.p5js.org/MichaelPaulukonis/sketches/u4N4Sg1Pa>
+- <https://editor.p5js.org/MichaelPaulukonis/sketches/WEZmL7hjk>
+- <https://editor.p5js.org/MichaelPaulukonis/sketches/TjWgRnnjI>
+- <https://editor.p5js.org/MichaelPaulukonis/sketches/f5nZ-s9uz>
+- <https://editor.p5js.org/MichaelPaulukonis/sketches/aPx5iA-gD>
+- <https://editor.p5js.org/MichaelPaulukonis/sketches/-zP4maTrf>
+
+
+## non-p5js examples
+
+- [This one](https://github.com/akuji1993/generated-kandinsky/blob/master/src/js/generators.js) is interesting - built out of HTML and CSS. See it [here](http://akuji.de/generated-kandinsky/)
+- [This one](https://github.com/ideo/generative-kandinsky) may be the best, but it is vanilla-JS that generates an SVG !!! It's niceley modularized, and should be able to be converted - see it [here](https://ideo.github.io/generative-kandinsky/)
+
+## references
+- [Computational aesthetics and applications](https://vciba.springeropen.com/articles/10.1186/s42492-018-0006-1)
+- <http://art4.gift/>
+- There are several papers from Khang Zhang regarding automatic generation of art in the style of several artists, primarily Kandisky, Miro and Pollock. Some of the papers have fragments of the Processing code. AFAICT the complete code is not available. Good points about analysis of the artworks and algorithms to generate.
+
+
+# Rotations &c
+- <https://genekogan.com/code/p5js-transformations/>
+
+# DigitalMedia MOOC
+- <https://www.coursera.org/learn/digitalmedia>
+- [SonicPainter](https://editor.p5js.org/MichaelPaulukonis/sketches/LZShpxDvP)
+
+# Processing converter
+
+I've forked the existing online converter, but don't have it online, yet.
+It works on regex substitution, and has a lot of holes and `clbuttic` replacements.
+
+I'm hoping that the old [Processing.js](https://github.com/processing-js/processing-js/blob/master/processing.js) code will help - particularly lines 9571-9572:
+
+```javascript
+    var code = preprocessCode(pdeCode, sketch);
+    var compiledPde = parseProcessing(code);
+```
+
+
+# Showdown
+
+I'm sure there's a better way of doing this.  
+I just want a way to keep some notes inside of the p5js editor.  
+I think I'm including the code wrong, as there is that weird injection of `n \n \n\n\n\n \n` at the top.  
+
+- This is made using [ShowdownJs](https://github.com/showdownjs/showdown)
+- [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)

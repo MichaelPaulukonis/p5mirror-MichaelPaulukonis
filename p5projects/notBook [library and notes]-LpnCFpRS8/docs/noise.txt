@@ -1,0 +1,4 @@
+# Organic randomness
+
+ - https://compform.net/noise/
+ - https://p5js.org/reference/#/p5/noise

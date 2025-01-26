@@ -1,0 +1,43 @@
+# Just some stuff
+
+- <https://www.reddit.com/r/processing/>
+
+
+## some errors
+
+### `Error while assigning the sketch template.`
+
+I was getting this in 3.4 while attempting to start a new sketch.  
+Turns out, my last active sketch was in `JavaScript mode`.  
+Once I opened a sketch in `Java mode` **AND** switched to Java Mode, I was able to start a new sketch without this error.  
+
+[Here is some source code](https://www.javatips.net/api/processing-master/app/src/processing/app/Mode.java) that spits out the error; I don't know the age of the example; would be interesting to dig around a bit more.
+
+
+## Running from VS Code
+
+<https://github.com/TobiahZ/processing-vscode>
+
+1. Get the path to Processing:
+  1. Open `Applications` (or folder where Processing is found)
+  1. Open `terminal` app (I use `iTerm2`)
+  1. Drag `Processing` from the finder window into terminal
+  1. the path should appear
+  1. -- OR --
+  1. `sudo find / -name Processing3_4.app` (or whatever the exact name is)
+1. Add Processing path to `PATH`
+1. ... and then some more steps, that I didn't complete, as I did the below, instead.
+
+-- OR --
+
+1. Open Processing, and click the Tools -> Install "processing-java" menu item.
+  1. This makes it available to the shell (presumably via `PATH` ????)
+1. Install the [processing-vscode](https://github.com/TobiahZ/processing-vscode) extension
+1. Open your sketch folder
+1. run `Processing: Create Task File`
+  1. `Cmd-P` + `>` + `Create Task File`
+1. Run project: `Cmd-Shift P`
+
+[processing forum notes](https://forum.processing.org/two/discussion/20239/visual-studio-code-for-processing-and-p5)
+
+Needs a Java formatter. How to setup for PDE files???

@@ -1,0 +1,33 @@
+# notes-system with markdown
+
+I'm using an in-editor "sketch" to hold a knowledge-base of my notes about Processing, p5js, and adjacent things.
+
+I've used local hosted, ISP-hosted and other mechanisms (primarily wikis, but also GitHub) for notes in the past. This medium seemed to be adjacent, so I thought I'd work with it.
+
+- [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
+## zero-md
+
+Even easier display, but no way to link to other "pages" to render, AFAICT
+
+So, it'll have to be something hand-rolled
+
+[zero-md](https://github.com/zerodevx/zero-md/)
+
+I tried several other MD displayers, none of them had any ability to code for a link to other pages, so I gave up (it makes sense, that's not a Markdown markup, that's a CMS issue).
+
+All the small CMSes I looked at were still too large, or I couldn't get to work in this editor environment (no big surprise, either).
+
+So, with the power of markdown and simple javascript, I'm rolling my own display system - in bits and pieces.
+
+Eventually, hot-load pages when requested, but for now - all in one giant blob!
+
+Using the example from the codepen below, only one section at a time is visible. Most of that is via CSS, but it has some promise for doing things dynamically.
+
+Why? As an exercise, mostly. Not of out necessity.
+
+See [this codepen example](https://codepen.io/coltborg/pen/EyzoJm) that relies on a lot of CSS? All of the content is in the HTML, and it relies on the [`:target` CSS pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/:target). This requires the target element (`id`) to be present/pre-rendered on the page, but maybe we could load the HTML on-demand (provided all files are pre-listed).
+
+Originally, I couldn't get this to work, because in an `iframe` with a `srcdoc` attribute (which is supposed to be more secure), anchors don't work so well. However, according to [stackoverflow](https://stackoverflow.com/a/59004815/41153) using `about:srcdoc#<id-foo>` WILL work - and it does, indeed. Hooray!
+
+The codepen DOES work - once I actually copy the rendered CSS, instead of the raw SCSS that is displayed in the pen. (NOTE: asking codepen to display the rendered version was throwing a fatal error, but I was able to gank the CSS from dev-tools in the iframe).

@@ -1,0 +1,10 @@
+# Working with text in Processing, p5js and.... other considerations
+
+- ["Experimental Creative Writing with the Vectorized Word" by Allison Parrish](https://www.youtube.com/watch?v=L3D0JEA1Jdc)
+
+
+## AI Dungeon
+
+- <https://colab.research.google.com/github/nickwalton/AIDungeon/blob/master/AIDungeon_2.ipynb>
+- [AI Dungeon 2: Creating Infinitely Generated Text Adventures with Deep Learning Language Models](https://pcc.cs.byu.edu/2019/11/21/ai-dungeon-2-creating-infinitely-generated-text-adventures-with-deep-learning-language-models/)
+

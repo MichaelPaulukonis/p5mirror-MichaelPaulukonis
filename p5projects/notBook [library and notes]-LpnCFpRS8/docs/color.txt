@@ -1,0 +1,15 @@
+# Color and image processing
+
+- <https://github.com/konvajs/konva/blob/master/src/filters/Brighten.ts>
+- <https://sighack.com/post/procedural-color-algorithms-monochromatic-color-scheme>
+- <https://chris.de/posts/an-algorithm-to-generate-color-palettes/>
+- <http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/>
+- <https://theme-ui.com/>
+- <https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/index.html>
+- <https://stackoverflow.com/questions/13806483/increase-or-decrease-color-saturation>
+
+
+## Search images
+
+- <https://www.npmjs.com/package/google-images>
+

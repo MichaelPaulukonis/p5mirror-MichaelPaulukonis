@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 20px;
+}
+canvas {
+  display: block;
+}
+
+@font-face {
+  font-family: Soulcraft;
+  src: url(SoulcraftGX.ttf);
+}

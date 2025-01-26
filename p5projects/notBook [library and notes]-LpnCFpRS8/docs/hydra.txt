@@ -1,0 +1,12 @@
+ - <https://cdm.link/2019/02/hydra-olivia-jack/>
+ - <https://github.com/ojack/hydra>
+ - <https://github.com/ojack/hydra-synth>
+ - <https://hydra.ojack.xyz/?sketch_id=example_13>
+ - <https://github.com/ojack/atom-hydra>
+ 
+ I don't know anything about the Atom editor, ~~so I haven't gotten the package to work, there.~~
+ 
+ I'm getting hydra-p5js to work inside of Atom. It's a bit weird, and there may be rendering issues - it draws to the entire editor, but only clears a small bit.
+ 
+## Atom notes
+- <https://flight-manual.atom.io/getting-started/sections/atom-basics/>

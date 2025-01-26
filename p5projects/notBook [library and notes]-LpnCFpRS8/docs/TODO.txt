@@ -1,0 +1,13 @@
+# things to convert and whatnot
+
+## old non-p5js sketches
+
+1. [red markov text](http://www.xradiograph.com/netart/017.html)
+1. [yellow text blobs](http://www.xradiograph.com/netart/016.html)
+1. [fast text](http://www.xradiograph.com/netart/011.html)
+
+
+## Might make use of
+
+1. <https://github.com/peacechen/FitText-UMD>
+
