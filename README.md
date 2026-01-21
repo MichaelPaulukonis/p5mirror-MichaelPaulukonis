@@ -50,7 +50,7 @@ Generated listing of editor.p5js projects
 
 ## Required apps
 
-- https://nodejs.org/en/download
+- <https://nodejs.org/en/download>
 
 ### For Microsoft Windows OS
 
@@ -61,15 +61,15 @@ Generated listing of editor.p5js projects
 
 ## Recommended apps
 
-- https://code.visualstudio.com/
+- <https://code.visualstudio.com/>
 
-- https://desktop.github.com/
+- <https://desktop.github.com/>
 
 ## VS Code extensions
 
-- https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode
+- <https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode>
 
-- https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+- <https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode>
 
 ## p5mirrorLib
 
@@ -81,8 +81,7 @@ Generated listing of editor.p5js projects
 
 ## Usage
 
-```
-
+```bash
 # p5name is the place holder for your editor.p5js user name
 
 # fork this repo and name it p5mirror-p5name
@@ -105,7 +104,6 @@ bin/mirror.sh --user p5name --verbose
 # remove sketches not present online
 #
 bin/mirror.sh --user p5name --clean
-
 ```
 
 ## mirror script details

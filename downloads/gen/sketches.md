@@ -1,269 +1,37 @@
-# Sketches for MichaelPaulukonis
-267 sketches  
-[\_\_\_\_\_Procedural collages with images copy](https://editor.p5js.org/MichaelPaulukonis/sketches/SqMYbCCKm)<!-- 2023-06-13T02:04:01.126Z -->  
-[2025.01.08 mona](https://editor.p5js.org/MichaelPaulukonis/sketches/tk8oqh8v9)<!-- 2025-01-09T04:24:05.891Z -->  
-[2025.01.09 mona](https://editor.p5js.org/MichaelPaulukonis/sketches/B2aUihdID)<!-- 2025-01-20T05:19:12.626Z -->  
-[2025.01.10.mona (Enthusiastic voice) \[many letters\]](https://editor.p5js.org/MichaelPaulukonis/sketches/DUTgioZpW)<!-- 2025-01-18T04:57:28.196Z -->  
-[2025.01.11 mona](https://editor.p5js.org/MichaelPaulukonis/sketches/-cyAIcuN8)<!-- 2025-01-12T05:31:22.342Z -->  
-[2025.01.12 FASTER BETTER ETC](https://editor.p5js.org/MichaelPaulukonis/sketches/_TXuLlI2J)<!-- 2025-01-13T05:01:15.013Z -->  
-[2025.01.13 text](https://editor.p5js.org/MichaelPaulukonis/sketches/0HnYk05JJ)<!-- 2025-01-14T04:23:27.349Z -->  
-[2025.01.14 text dragger](https://editor.p5js.org/MichaelPaulukonis/sketches/x7OaxlWAO)<!-- 2025-01-15T03:31:11.633Z -->  
-[2025.01.15 MORE BETTER GRID](https://editor.p5js.org/MichaelPaulukonis/sketches/jzPEFa_AK)<!-- 2025-01-20T00:14:34.378Z -->  
-[2025.01.15 MORE BETTER GRID copy](https://editor.p5js.org/MichaelPaulukonis/sketches/h4Cg7pcF9)<!-- 2025-01-20T01:29:01.602Z -->  
-[2025.01.16 (shader remap)](https://editor.p5js.org/MichaelPaulukonis/sketches/6cpSAAss9)<!-- 2025-01-25T02:22:40.207Z -->  
-[2025.01.17 (shader incomplete)](https://editor.p5js.org/MichaelPaulukonis/sketches/tqEWVvjul)<!-- 2025-01-25T02:04:09.845Z -->  
-[2025.01.17 SON OF MAN](https://editor.p5js.org/MichaelPaulukonis/sketches/sGnW8FUdE)<!-- 2025-01-18T05:16:52.953Z -->  
-[2025.01.18 SONS OF MAN](https://editor.p5js.org/MichaelPaulukonis/sketches/oxFUq2Vjj)<!-- 2025-01-19T01:50:37.561Z -->  
-[2025.01.20.CMYK shader](https://editor.p5js.org/MichaelPaulukonis/sketches/u2e8qZByz)<!-- 2025-01-22T05:36:09.591Z -->  
-[2025.01.20.CMYK shader copy](https://editor.p5js.org/MichaelPaulukonis/sketches/zTHBVRqkZ)<!-- 2025-01-22T05:28:43.226Z -->  
-[2025.01.21 remap redux](https://editor.p5js.org/MichaelPaulukonis/sketches/tVFwSrCxg)<!-- 2025-01-26T00:41:40.795Z -->  
-[2025.01.22 CMYK more better](https://editor.p5js.org/MichaelPaulukonis/sketches/eJ1i1s65Y)<!-- 2025-01-24T03:25:17.949Z -->  
-[2025.01.23 alternate (Leeward snagglefoot)](https://editor.p5js.org/MichaelPaulukonis/sketches/jVpsKcM9A)<!-- 2025-01-24T17:55:44.340Z -->  
-[2025.01.23 letter grid daily code mona](https://editor.p5js.org/MichaelPaulukonis/sketches/y8JOpiTpQ)<!-- 2025-01-24T03:56:45.274Z -->  
-[2025.01.24 CMYK dual action](https://editor.p5js.org/MichaelPaulukonis/sketches/NlTDFEEh1)<!-- 2025-01-25T03:28:51.319Z -->  
-[2025.01.25 CMYK and friends](https://editor.p5js.org/MichaelPaulukonis/sketches/VHxxKKcBZ)<!-- 2025-01-26T17:07:38.495Z -->  
-[agressive waves of text (towards thee xradiograph)](https://editor.p5js.org/MichaelPaulukonis/sketches/M9Fp9YrdU)<!-- 2024-08-30T21:02:42.982Z -->  
-[Almost a Kaleidoscope copy](https://editor.p5js.org/MichaelPaulukonis/sketches/xkICfNcMT)<!-- 2019-12-13T03:24:09.032Z -->  
-[Anaglyph Fireword - BREXIT\! copy](https://editor.p5js.org/MichaelPaulukonis/sketches/tDz6zDEMr)<!-- 2019-12-21T22:21:41.554Z -->  
-[anchor bug](https://editor.p5js.org/MichaelPaulukonis/sketches/XJS1uWHZw)<!-- 2020-01-10T03:44:45.431Z -->  
-[anchor bug - solution](https://editor.p5js.org/MichaelPaulukonis/sketches/2qgicri_f)<!-- 2020-01-13T01:14:54.720Z -->  
-[AND IN MY SLEEP - GAN MOVIE copy](https://editor.p5js.org/MichaelPaulukonis/sketches/L-lZqRppy)<!-- 2019-11-24T13:11:57.769Z -->  
-[Anthony's Tower Defense](https://editor.p5js.org/MichaelPaulukonis/sketches/MffVQPgbz)<!-- 2024-08-08T20:31:12.021Z -->  
-[array ratio split](https://editor.p5js.org/MichaelPaulukonis/sketches/5MhNdAy6a)<!-- 2024-06-13T02:35:29.725Z -->  
-[audio reverse issue](https://editor.p5js.org/MichaelPaulukonis/sketches/T2EVbCom8)<!-- 2021-05-04T01:22:20.277Z -->  
-[Auto-collager](https://editor.p5js.org/MichaelPaulukonis/sketches/JQwA0XDIH)<!-- 2021-10-27T14:23:37.732Z -->  
-[background sine copy](https://editor.p5js.org/MichaelPaulukonis/sketches/_j2fdvrv9)<!-- 2019-11-24T13:08:15.328Z -->  
-[Barebones centered zoom](https://editor.p5js.org/MichaelPaulukonis/sketches/p5S-FbHdq)<!-- 2025-01-14T17:22:26.739Z -->  
-[Barebones centered zoom GRID](https://editor.p5js.org/MichaelPaulukonis/sketches/D66w_xp7S)<!-- 2025-01-14T20:05:48.960Z -->  
-[Bead citizen (color tiles)](https://editor.p5js.org/MichaelPaulukonis/sketches/P3M05p32j)<!-- 2024-11-26T21:44:15.304Z -->  
-[Bead citizen (color tiles) copy](https://editor.p5js.org/MichaelPaulukonis/sketches/C25iY5Ux8)<!-- 2024-11-28T03:45:55.546Z -->  
-[Bead citizen (color tiles) copy copy](https://editor.p5js.org/MichaelPaulukonis/sketches/tNs0kGIR2)<!-- 2024-11-29T16:13:43.482Z -->  
-[boouncing balls from boilerplate](https://editor.p5js.org/MichaelPaulukonis/sketches/DUq-oJXbg)<!-- 2025-01-24T02:37:43.540Z -->  
-[bouncing gradient](https://editor.p5js.org/MichaelPaulukonis/sketches/r3nebFt8A)<!-- 2019-12-18T22:31:43.982Z -->  
-[Boundless bloom](https://editor.p5js.org/MichaelPaulukonis/sketches/rYKaaCi6W)<!-- 2024-06-06T02:15:21.492Z -->  
-[Broad tarragon](https://editor.p5js.org/MichaelPaulukonis/sketches/Q9eQmW0T0)<!-- 2024-06-27T02:12:06.890Z -->  
-[buffalo shuffle](https://editor.p5js.org/MichaelPaulukonis/sketches/hay9sEaBQ)<!-- 2025-01-08T04:39:42.827Z -->  
-[Candle bladder](https://editor.p5js.org/MichaelPaulukonis/sketches/-uslloJof)<!-- 2024-04-22T03:46:00.171Z -->  
-[Capable roundworm](https://editor.p5js.org/MichaelPaulukonis/sketches/sCerh30TD)<!-- 2024-06-06T01:24:22.804Z -->  
-[capture pixels copy](https://editor.p5js.org/MichaelPaulukonis/sketches/solJNGoQh)<!-- 2020-01-23T02:27:20.777Z -->  
-[Capuchin Shipping (circles + whatnot)](https://editor.p5js.org/MichaelPaulukonis/sketches/_DSvMpd0h)<!-- 2024-09-13T00:01:37.619Z -->  
-[Capuchin Shipping (circles + whatnot) copy](https://editor.p5js.org/MichaelPaulukonis/sketches/mGowbQYA4)<!-- 2024-09-13T01:45:38.552Z -->  
-[Chestnut toque (two quarters)](https://editor.p5js.org/MichaelPaulukonis/sketches/w_dcEBeKG)<!-- 2024-12-02T14:30:04.498Z -->  
-[Chivalrous lychee (race car)](https://editor.p5js.org/MichaelPaulukonis/sketches/PnOjmeAFr)<!-- 2024-06-24T14:29:29.755Z -->  
-[Chroma Theory v1.1 shader two pass copy](https://editor.p5js.org/MichaelPaulukonis/sketches/QzM6jRWFx)<!-- 2025-01-17T21:58:55.932Z -->  
-[chromic text (poly variation)](https://editor.p5js.org/MichaelPaulukonis/sketches/iaBKhc8G8)<!-- 2024-06-10T18:00:55.314Z -->  
-[circle stuff](https://editor.p5js.org/MichaelPaulukonis/sketches/p3hP7EsnS)<!-- 2019-12-13T15:24:33.461Z -->  
-[circle things](https://editor.p5js.org/MichaelPaulukonis/sketches/BobGsGsee)<!-- 2019-12-10T02:31:10.340Z -->  
-[Circles with Squares - Grids copy](https://editor.p5js.org/MichaelPaulukonis/sketches/aNodKnTfg)<!-- 2021-10-27T02:21:08.727Z -->  
-[circular motion no rotate](https://editor.p5js.org/MichaelPaulukonis/sketches/KXjbqjNuD)<!-- 2024-09-13T23:31:15.889Z -->  
-[Citrine swing](https://editor.p5js.org/MichaelPaulukonis/sketches/xv_iLvUKd)<!-- 2025-01-13T23:22:25.843Z -->  
-[Citrine swing copy](https://editor.p5js.org/MichaelPaulukonis/sketches/kSjla_alJ)<!-- 2025-01-13T04:01:19.187Z -->  
-[city wandering](https://editor.p5js.org/MichaelPaulukonis/sketches/I0mjaV1OS)<!-- 2024-08-27T22:46:48.186Z -->  
-[city wandering (zombie pandemic)](https://editor.p5js.org/MichaelPaulukonis/sketches/3KkPPMOu_)<!-- 2024-11-26T18:47:00.193Z -->  
-[clok\_cmyk copy](https://editor.p5js.org/MichaelPaulukonis/sketches/CQSfnPv4f)<!-- 2021-10-31T02:58:38.128Z -->  
-[cmyk copy](https://editor.p5js.org/MichaelPaulukonis/sketches/Pr-6Pm_nU)<!-- 2020-01-19T02:30:08.296Z -->  
-[CMYK webcam filter (non-working)](https://editor.p5js.org/MichaelPaulukonis/sketches/3GDujAnea)<!-- 2020-01-26T18:16:23.813Z -->  
-[CMYK webcam offsets](https://editor.p5js.org/MichaelPaulukonis/sketches/mcnx7HKWu)<!-- 2020-01-23T05:35:13.450Z -->  
-[CMYK webcam offsets (another)](https://editor.p5js.org/MichaelPaulukonis/sketches/yx6gHkhRf)<!-- 2020-01-26T18:18:03.207Z -->  
-[CMYKLadies\_newLoop copy](https://editor.p5js.org/MichaelPaulukonis/sketches/mtHVfMN0B)<!-- 2020-01-19T02:36:58.496Z -->  
-[Collaborate with Github Copilot X by Atsushi Tadokoro copy](https://editor.p5js.org/MichaelPaulukonis/sketches/KfLBCo7uK)<!-- 2024-06-14T18:41:12.887Z -->  
-[Collage √ Lines copy](https://editor.p5js.org/MichaelPaulukonis/sketches/_dFh18err)<!-- 2022-01-23T04:24:06.686Z -->  
-[collage copy](https://editor.p5js.org/MichaelPaulukonis/sketches/Tn8tJ8Kj5)<!-- 2020-01-26T17:04:17.268Z -->  
-[Collage Maker](https://editor.p5js.org/MichaelPaulukonis/sketches/Wj5LJFwlb)<!-- 2023-06-10T17:22:22.827Z -->  
-[collage prep](https://editor.p5js.org/MichaelPaulukonis/sketches/nynB4Ql57)<!-- 2020-01-26T17:28:35.743Z -->  
-[color mask](https://editor.p5js.org/MichaelPaulukonis/sketches/6gqXLICTo)<!-- 2024-12-29T02:24:55.800Z -->  
-[Color: Radial Gradient](https://editor.p5js.org/MichaelPaulukonis/sketches/Bl9jL6rP8)<!-- 2019-12-01T21:28:04.561Z -->  
-[Color: Radial Gradient copy](https://editor.p5js.org/MichaelPaulukonis/sketches/O8u0dq_Yh)<!-- 2019-12-08T21:13:45.423Z -->  
-[colored looping trig thing](https://editor.p5js.org/MichaelPaulukonis/sketches/Q596-Rx4a)<!-- 2020-01-13T00:46:16.580Z -->  
-[colored looping trig thing copy](https://editor.p5js.org/MichaelPaulukonis/sketches/CaRoJ7vR-)<!-- 2019-12-18T01:58:55.813Z -->  
-[Cosmic trick](https://editor.p5js.org/MichaelPaulukonis/sketches/IuVXH9q8q)<!-- 2024-07-26T19:28:48.820Z -->  
-[crude paint machine](https://editor.p5js.org/MichaelPaulukonis/sketches/pSXLnOpS3)<!-- 2024-05-04T00:16:31.776Z -->  
-[Daffy peacock](https://editor.p5js.org/MichaelPaulukonis/sketches/kHYRZCW0J)<!-- 2024-05-25T04:08:12.390Z -->  
-[Daffy peacock (click drag select)](https://editor.p5js.org/MichaelPaulukonis/sketches/MaTAKSnpz)<!-- 2024-05-25T04:15:38.643Z -->  
-[dashed lines copy](https://editor.p5js.org/MichaelPaulukonis/sketches/TzKd5LspL)<!-- 2024-11-27T16:57:11.002Z -->  
-[degrid unzoom](https://editor.p5js.org/MichaelPaulukonis/sketches/XsEKQDBkc)<!-- 2025-01-04T17:05:49.591Z -->  
-[deJong attractor](https://editor.p5js.org/MichaelPaulukonis/sketches/BMp_2B6gK)<!-- 2019-12-18T02:11:13.628Z -->  
-[DELETE ME](https://editor.p5js.org/MichaelPaulukonis/sketches/yK11pVjds)<!-- 2025-01-26T05:54:05.061Z -->  
-[Deluxe character](https://editor.p5js.org/MichaelPaulukonis/sketches/k-cVpBOdC)<!-- 2024-05-24T00:13:28.870Z -->  
-[Dented masking](https://editor.p5js.org/MichaelPaulukonis/sketches/ea90Zlnsv)<!-- 2023-06-14T21:56:21.432Z -->  
-[drag-pixelate copy](https://editor.p5js.org/MichaelPaulukonis/sketches/f14jri96J)<!-- 2021-10-27T02:28:50.057Z -->  
-[draggable](https://editor.p5js.org/MichaelPaulukonis/sketches/cSS3JYrSK)<!-- 2024-04-30T23:03:36.380Z -->  
-[Draggable Sheep Image copy](https://editor.p5js.org/MichaelPaulukonis/sketches/FYFa1bvrW)<!-- 2020-08-21T01:55:31.799Z -->  
-[drawing tool test copy](https://editor.p5js.org/MichaelPaulukonis/sketches/IuJsartc1)<!-- 2023-06-10T17:41:01.224Z -->  
-[Dynamic mask for images editable copy](https://editor.p5js.org/MichaelPaulukonis/sketches/5rQaGc17o)<!-- 2021-05-04T01:18:06.875Z -->  
-[Equable verdict](https://editor.p5js.org/MichaelPaulukonis/sketches/333hfCS6C)<!-- 2021-09-27T00:22:47.340Z -->  
-[erasibility](https://editor.p5js.org/MichaelPaulukonis/sketches/b_vE1qqo1)<!-- 2024-12-20T21:40:10.892Z -->  
-[Fair glider (dragline)](https://editor.p5js.org/MichaelPaulukonis/sketches/sUhYftDmf)<!-- 2024-11-09T15:25:40.839Z -->  
-[Filter Function - Posterize copy](https://editor.p5js.org/MichaelPaulukonis/sketches/Uf7-tLTo-)<!-- 2021-10-13T02:15:49.539Z -->  
-[Fir tellurium (polychrome variation)](https://editor.p5js.org/MichaelPaulukonis/sketches/D8y0UDhoG)<!-- 2024-06-12T03:03:58.182Z -->  
-[Fir tellurium (polychrome variation) copy](https://editor.p5js.org/MichaelPaulukonis/sketches/jiL_lut6Y)<!-- 2024-06-12T03:30:18.083Z -->  
-[Floyd-Steinberg Dithering	 copy](https://editor.p5js.org/MichaelPaulukonis/sketches/96uDQR7Gm)<!-- 2023-09-08T22:38:19.883Z -->  
-[font color noise copy](https://editor.p5js.org/MichaelPaulukonis/sketches/ujlZHW_dT)<!-- 2021-06-22T02:32:45.079Z -->  
-[font test](https://editor.p5js.org/MichaelPaulukonis/sketches/pQ62GQxG2)<!-- 2025-01-19T01:16:08.235Z -->  
-[Form: Regular Polygon copy](https://editor.p5js.org/MichaelPaulukonis/sketches/J6dP0niQN)<!-- 2024-11-27T21:01:49.823Z -->  
-[Freezing novel](https://editor.p5js.org/MichaelPaulukonis/sketches/6ncbrMCZP)<!-- 2024-12-28T05:52:59.549Z -->  
-[full-screen copy](https://editor.p5js.org/MichaelPaulukonis/sketches/y-xAwvyGL)<!-- 2023-06-10T17:21:45.416Z -->  
-[GIF Test copy](https://editor.p5js.org/MichaelPaulukonis/sketches/IqZi5waUr)<!-- 2019-12-23T23:50:00.425Z -->  
-[GIF Test copy](https://editor.p5js.org/MichaelPaulukonis/sketches/xcEUA2ZlQ)<!-- 2019-12-23T23:36:55.464Z -->  
-[Goldenrod taleggio (Noise Loop)](https://editor.p5js.org/MichaelPaulukonis/sketches/JyjRWZKO2)<!-- 2021-09-14T01:07:23.339Z -->  
-[grids copy](https://editor.p5js.org/MichaelPaulukonis/sketches/K1OCTx_8G)<!-- 2021-10-31T02:56:38.638Z -->  
-[Guess the Imposter copy](https://editor.p5js.org/MichaelPaulukonis/sketches/Et728r0pR)<!-- 2024-08-01T00:20:10.958Z -->  
-[Guess the Imposter copy copy](https://editor.p5js.org/MichaelPaulukonis/sketches/43tlEifOG)<!-- 2024-08-01T02:20:45.788Z -->  
-[Helix camelotia](https://editor.p5js.org/MichaelPaulukonis/sketches/yz4rJ7MD7)<!-- 2024-09-18T21:14:54.709Z -->  
-[hickory daiquiri pivot](https://editor.p5js.org/MichaelPaulukonis/sketches/unZfarPm0)<!-- 2024-07-17T01:01:26.550Z -->  
-[hickory pivot](https://editor.p5js.org/MichaelPaulukonis/sketches/V50bp921O)<!-- 2024-07-17T00:05:22.938Z -->  
-[HW\_5\_halftone copy](https://editor.p5js.org/MichaelPaulukonis/sketches/IQurBpYX1)<!-- 2020-01-18T02:23:46.120Z -->  
-[image dots copy](https://editor.p5js.org/MichaelPaulukonis/sketches/i12aPPioG)<!-- 2023-08-02T02:47:33.117Z -->  
-[image mask draw copy](https://editor.p5js.org/MichaelPaulukonis/sketches/pdKh4NeTN)<!-- 2020-01-26T18:07:03.276Z -->  
-[image pixelation copy](https://editor.p5js.org/MichaelPaulukonis/sketches/_wph4CIo)<!-- 2021-10-27T02:00:00.984Z -->  
-[image thresholding copy](https://editor.p5js.org/MichaelPaulukonis/sketches/GlwggV9ht)<!-- 2021-10-08T02:35:12.847Z -->  
-[Image Tiles copy](https://editor.p5js.org/MichaelPaulukonis/sketches/4ru1jKHbX)<!-- 2022-01-09T22:02:53.254Z -->  
-[image windowing](https://editor.p5js.org/MichaelPaulukonis/sketches/C-izYiTIg)<!-- 2023-07-09T17:54:26.873Z -->  
-[image windowing scaled](https://editor.p5js.org/MichaelPaulukonis/sketches/6_oQHAfYF)<!-- 2023-07-10T03:20:33.799Z -->  
-[Image zoom example copy](https://editor.p5js.org/MichaelPaulukonis/sketches/e507d9r32)<!-- 2025-01-06T13:33:36.619Z -->  
-[infinite generative chiasmus prototype copy](https://editor.p5js.org/MichaelPaulukonis/sketches/kjwrJqFB5)<!-- 2019-11-25T03:34:57.973Z -->  
-[Insidious motorcycle](https://editor.p5js.org/MichaelPaulukonis/sketches/jCTUAFI8i)<!-- 2024-06-30T02:46:49.339Z -->  
-[Iridescent motion (rotating semicircles)](https://editor.p5js.org/MichaelPaulukonis/sketches/i3V3HjQ2f)<!-- 2020-01-14T03:58:01.312Z -->  
-[Just sizedText with slogans copy](https://editor.p5js.org/MichaelPaulukonis/sketches/jucbrop-_)<!-- 2019-12-21T22:25:59.435Z -->  
-[kaleidoscope copy](https://editor.p5js.org/MichaelPaulukonis/sketches/bSCy5WSvp)<!-- 2019-12-13T03:20:13.872Z -->  
-[Kaleidoscope Draft 2 copy](https://editor.p5js.org/MichaelPaulukonis/sketches/zEB-ULvOR)<!-- 2019-12-13T03:26:08.639Z -->  
-[Kandinsky (Festive manager)](https://editor.p5js.org/MichaelPaulukonis/sketches/f5nZ-s9uz)<!-- 2019-12-25T18:48:21.149Z -->  
-[Kandinsky (Somber biplane)](https://editor.p5js.org/MichaelPaulukonis/sketches/TjWgRnnjI)<!-- 2019-12-25T18:51:05.152Z -->  
-[Kandinsky Circle (Juvenile notify)](https://editor.p5js.org/MichaelPaulukonis/sketches/u4N4Sg1Pa)<!-- 2019-12-26T01:27:51.970Z -->  
-[Kandinsky copy](https://editor.p5js.org/MichaelPaulukonis/sketches/aPx5iA-gD)<!-- 2019-12-25T18:39:36.263Z -->  
-[Kandinsky copy](https://editor.p5js.org/MichaelPaulukonis/sketches/-zP4maTrf)<!-- 2019-12-26T16:22:58.366Z -->  
-[Kandinsky generator](https://editor.p5js.org/MichaelPaulukonis/sketches/WEZmL7hjk)<!-- 2020-01-26T18:20:32.311Z -->  
-[Kaput ship (image onto circles)](https://editor.p5js.org/MichaelPaulukonis/sketches/hEn_MutgW)<!-- 2024-09-13T23:28:19.370Z -->  
-[linear gradients](https://editor.p5js.org/MichaelPaulukonis/sketches/TQNJHj2j7)<!-- 2019-11-30T15:31:38.902Z -->  
-[Little freon (vertexes from svg and eps)](https://editor.p5js.org/MichaelPaulukonis/sketches/oWtqKW9p9)<!-- 2024-07-16T01:22:56.030Z -->  
-[Little suggestion](https://editor.p5js.org/MichaelPaulukonis/sketches/tgLKUyTMK)<!-- 2025-01-06T03:09:52.864Z -->  
-[load transparent with outline](https://editor.p5js.org/MichaelPaulukonis/sketches/mcO6XgrqA)<!-- 2024-06-17T02:33:18.770Z -->  
-[load transparent with outline (first stab that works)](https://editor.p5js.org/MichaelPaulukonis/sketches/Hsor7ujtL)<!-- 2024-06-17T02:10:20.161Z -->  
-[load transparent with outline copy](https://editor.p5js.org/MichaelPaulukonis/sketches/L76z7FUwG)<!-- 2024-06-19T00:16:12.412Z -->  
-[Longing magnosaurus](https://editor.p5js.org/MichaelPaulukonis/sketches/Km7V3jp5W)<!-- 2024-11-26T18:43:57.774Z -->  
-[looping letters maybe](https://editor.p5js.org/MichaelPaulukonis/sketches/VxA-4HKOB)<!-- 2019-12-18T02:58:48.007Z -->  
-[Lowly patient](https://editor.p5js.org/MichaelPaulukonis/sketches/XTP4HVya3)<!-- 2024-05-23T01:36:03.123Z -->  
-[Luminous polka (HEXONX)](https://editor.p5js.org/MichaelPaulukonis/sketches/zB7Xe1hC_)<!-- 2024-09-20T21:03:23.786Z -->  
-[Mahogany writing (SVG to paths)](https://editor.p5js.org/MichaelPaulukonis/sketches/MdNZ6mMrw)<!-- 2024-08-19T00:06:47.460Z -->  
-[many circle text (no orientation)](https://editor.p5js.org/MichaelPaulukonis/sketches/3QzTw9MIa)<!-- 2021-06-22T02:16:07.541Z -->  
-[Marvelous audio jar](https://editor.p5js.org/MichaelPaulukonis/sketches/p12SMUTaw)<!-- 2020-01-09T03:19:56.124Z -->  
-[mask test](https://editor.p5js.org/MichaelPaulukonis/sketches/835Q3gHyU)<!-- 2024-04-22T03:33:59.502Z -->  
-[material of language header copy](https://editor.p5js.org/MichaelPaulukonis/sketches/j-nq6QKCv)<!-- 2024-07-05T00:29:16.527Z -->  
-[Matter-based Text Editor of Sorts copy](https://editor.p5js.org/MichaelPaulukonis/sketches/3MqbmZ86v)<!-- 2019-12-21T22:05:53.408Z -->  
-[ml5 object detection webcam copy](https://editor.p5js.org/MichaelPaulukonis/sketches/-PX6u11GD)<!-- 2024-09-27T19:11:13.197Z -->  
-[Mondrian Gen. copy](https://editor.p5js.org/MichaelPaulukonis/sketches/RVXbcGs8s)<!-- 2024-04-14T15:14:10.216Z -->  
-[monochromifier](https://editor.p5js.org/MichaelPaulukonis/sketches/ESxk6lZQI)<!-- 2025-01-06T20:58:03.231Z -->  
-[Mosaic Maker copy](https://editor.p5js.org/MichaelPaulukonis/sketches/KkezfHC2l)<!-- 2022-02-20T21:43:13.976Z -->  
-[Mud quit](https://editor.p5js.org/MichaelPaulukonis/sketches/64kNgm1Cs)<!-- 2024-07-14T04:24:39.736Z -->  
-[multiple canvases copy](https://editor.p5js.org/MichaelPaulukonis/sketches/Q0csx9-eI)<!-- 2024-06-21T15:44:45.884Z -->  
-[multiple canvases demo copy](https://editor.p5js.org/MichaelPaulukonis/sketches/w-E_K18Bp)<!-- 2024-06-21T15:44:04.787Z -->  
-[Ninth edam (draggable)](https://editor.p5js.org/MichaelPaulukonis/sketches/UIGryguXF)<!-- 2024-06-14T17:25:07.998Z -->  
-[noise](https://editor.p5js.org/MichaelPaulukonis/sketches/f4X-kJJ_d)<!-- 2020-07-28T00:16:25.705Z -->  
-[noise test](https://editor.p5js.org/MichaelPaulukonis/sketches/VwUz-Vwc_)<!-- 2025-01-18T03:16:56.024Z -->  
-[noise test copy](https://editor.p5js.org/MichaelPaulukonis/sketches/hdaFBm-Wx)<!-- 2025-01-18T02:56:21.557Z -->  
-[Noisy sky](https://editor.p5js.org/MichaelPaulukonis/sketches/TpMc2h5Uc)<!-- 2021-07-30T02:40:47.190Z -->  
-[notBook \[library and notes\]](https://editor.p5js.org/MichaelPaulukonis/sketches/LpnCFpRS8)<!-- 2022-02-04T04:24:26.200Z -->  
-[notBook \[library and notes\].bak](https://editor.p5js.org/MichaelPaulukonis/sketches/sJ1lNzqWV)<!-- 2020-01-04T00:50:08.471Z -->  
-[Occipital judo (color theory)](https://editor.p5js.org/MichaelPaulukonis/sketches/ckuAGzBMj)<!-- 2024-05-15T01:17:29.793Z -->  
-[Oddly satisfying circle thingy copy copy](https://editor.p5js.org/MichaelPaulukonis/sketches/iSnWz5sBK)<!-- 2020-01-19T02:41:33.786Z -->  
-[overlapping-color copy](https://editor.p5js.org/MichaelPaulukonis/sketches/be8RcibCc)<!-- 2021-09-27T00:03:34.346Z -->  
-[p5.detect text example copy](https://editor.p5js.org/MichaelPaulukonis/sketches/fYS_a6Mn_)<!-- 2024-09-27T19:10:01.962Z -->  
-[p5.glitch-almost-everything copy](https://editor.p5js.org/MichaelPaulukonis/sketches/FZoVqaj1U)<!-- 2021-11-11T03:47:22.233Z -->  
-[p5.glitch-image copy](https://editor.p5js.org/MichaelPaulukonis/sketches/2pAiWgl0w)<!-- 2021-11-11T03:45:21.131Z -->  
-[p5gif - Load Gif copy copy](https://editor.p5js.org/MichaelPaulukonis/sketches/1HTECbSFi)<!-- 2020-07-12T02:48:06.110Z -->  
-[p5play starter code copy](https://editor.p5js.org/MichaelPaulukonis/sketches/EerCjVdMd)<!-- 2024-07-31T23:56:42.406Z -->  
-[Pattern: Halftone Texture for Student copy](https://editor.p5js.org/MichaelPaulukonis/sketches/miTJRF2wM)<!-- 2025-01-20T16:47:45.941Z -->  
-[pendulum text](https://editor.p5js.org/MichaelPaulukonis/sketches/6-3TMh2P1)<!-- 2019-12-26T20:20:11.649Z -->  
-[pitch-shift demo](https://editor.p5js.org/MichaelPaulukonis/sketches/b4qIqcJ-_)<!-- 2020-01-10T04:03:12.468Z -->  
-[Pixel Art Dithering](https://editor.p5js.org/MichaelPaulukonis/sketches/SKL1VxgyD)<!-- 2023-09-16T18:13:51.328Z -->  
-[Pixel Art Dithering FROM SRC IMAGE](https://editor.p5js.org/MichaelPaulukonis/sketches/5SMoKxDTw)<!-- 2023-09-16T23:50:45.182Z -->  
-[Pixel Sort copy](https://editor.p5js.org/MichaelPaulukonis/sketches/cDSnrdYPc)<!-- 2025-01-16T03:21:51.205Z -->  
-[Pixel Sorter copy](https://editor.p5js.org/MichaelPaulukonis/sketches/jiaE3ACvE)<!-- 2025-01-16T03:22:57.943Z -->  
-[pixelate copy](https://editor.p5js.org/MichaelPaulukonis/sketches/ShvkTypx5)<!-- 2021-10-27T02:28:33.137Z -->  
-[pixelate copy](https://editor.p5js.org/MichaelPaulukonis/sketches/1QQhcmQ_N)<!-- 2021-10-27T02:26:21.112Z -->  
-[Pixelate copy](https://editor.p5js.org/MichaelPaulukonis/sketches/xKGFfyXZ5)<!-- 2021-10-27T02:26:00.885Z -->  
-[Pixelation copy](https://editor.p5js.org/MichaelPaulukonis/sketches/QHVItuuOv)<!-- 2021-10-27T02:29:55.717Z -->  
-[Plump food particles](https://editor.p5js.org/MichaelPaulukonis/sketches/GUbEoxXQ4)<!-- 2019-12-17T01:24:12.069Z -->  
-[Pond words](https://editor.p5js.org/MichaelPaulukonis/sketches/owWQ6P3l1)<!-- 2019-10-19T15:34:00.476Z -->  
-[pop quad](https://editor.p5js.org/MichaelPaulukonis/sketches/XGb5b24Xo)<!-- 2025-01-06T03:57:11.696Z -->  
-[pop quad improved](https://editor.p5js.org/MichaelPaulukonis/sketches/Zf8-ASewb)<!-- 2025-01-07T19:56:32.750Z -->  
-[pop quad improved copy](https://editor.p5js.org/MichaelPaulukonis/sketches/gZ0UTya7d)<!-- 2025-01-07T04:17:48.518Z -->  
-[poppyseed boids](https://editor.p5js.org/MichaelPaulukonis/sketches/ld7hLEwO4)<!-- 2024-08-30T21:09:18.388Z -->  
-[Purring basilisk](https://editor.p5js.org/MichaelPaulukonis/sketches/vLSNVdEi1)<!-- 2024-07-26T19:52:39.895Z -->  
-[Pushy bobble](https://editor.p5js.org/MichaelPaulukonis/sketches/dt3KnMpHr)<!-- 2024-07-26T19:48:06.232Z -->  
-[PXL8R\_2.0](https://editor.p5js.org/MichaelPaulukonis/sketches/9WCSkmZEk)<!-- 2021-10-27T14:37:41.793Z -->  
-[quad copy](https://editor.p5js.org/MichaelPaulukonis/sketches/t3e1xoEaw)<!-- 2020-08-26T01:43:35.527Z -->  
-[Quickest meal](https://editor.p5js.org/MichaelPaulukonis/sketches/MRci-Ij5f)<!-- 2019-12-13T04:18:38.296Z -->  
-[Quickest meal copy](https://editor.p5js.org/MichaelPaulukonis/sketches/3kwkUaUCZ)<!-- 2019-12-13T12:40:26.604Z -->  
-[Quirky clove](https://editor.p5js.org/MichaelPaulukonis/sketches/7UlzFrJ8i)<!-- 2022-02-20T22:07:31.081Z -->  
-[Rainy opossum(git liveexample) copy](https://editor.p5js.org/MichaelPaulukonis/sketches/UmWsOqcO1)<!-- 2023-08-10T15:35:28.095Z -->  
-[random pixel colors](https://editor.p5js.org/MichaelPaulukonis/sketches/plK21uMg)<!-- 2021-05-04T01:14:06.862Z -->  
-[random walk  (cherry blossom)](https://editor.p5js.org/MichaelPaulukonis/sketches/2abgSufrz)<!-- 2020-01-14T04:00:01.447Z -->  
-[recursion semi circles copy](https://editor.p5js.org/MichaelPaulukonis/sketches/UBDBoX-6l)<!-- 2024-11-27T20:50:06.981Z -->  
-[Repeated quince](https://editor.p5js.org/MichaelPaulukonis/sketches/oKKbOXlN)<!-- 2020-06-09T02:29:25.159Z -->  
-[Repossessed pram (pic gogs)](https://editor.p5js.org/MichaelPaulukonis/sketches/llFgrZ7Xm)<!-- 2019-12-27T21:29:35.300Z -->  
-[Resisted snipe](https://editor.p5js.org/MichaelPaulukonis/sketches/MB00n7blw5)<!-- 2024-05-03T21:01:32.784Z -->  
-[Rigorous crawdad](https://editor.p5js.org/MichaelPaulukonis/sketches/cuVl2Tc7z)<!-- 2023-07-09T18:27:33.740Z -->  
-[Roan bulb (amber waves of text)](https://editor.p5js.org/MichaelPaulukonis/sketches/YD2t6PBOX)<!-- 2024-07-26T19:17:29.206Z -->  
-[rotate circle copy](https://editor.p5js.org/MichaelPaulukonis/sketches/9WFqsxokf)<!-- 2019-12-06T21:40:51.744Z -->  
-[rotating text around a circle copy](https://editor.p5js.org/MichaelPaulukonis/sketches/l4pTtM1mX)<!-- 2021-06-22T02:30:39.968Z -->  
-[Rough bass (maze zombies)](https://editor.p5js.org/MichaelPaulukonis/sketches/Bo3vQ8PHK)<!-- 2024-08-27T03:59:53.123Z -->  
-[Rumbling porkpie](https://editor.p5js.org/MichaelPaulukonis/sketches/bWmJh_kSi)<!-- 2025-01-26T19:48:56.746Z -->  
-[sad girls new 07 copy](https://editor.p5js.org/MichaelPaulukonis/sketches/0Wkdh_sHb)<!-- 2022-01-09T22:06:24.537Z -->  
-[save selection with vectors (image-shaper)](https://editor.p5js.org/MichaelPaulukonis/sketches/cg_LK7asX)<!-- 2024-07-31T03:23:17.148Z -->  
-[selection draw NO BLUR](https://editor.p5js.org/MichaelPaulukonis/sketches/IbVp74HoL)<!-- 2024-05-01T23:50:40.688Z -->  
-[selection test (from a collage)](https://editor.p5js.org/MichaelPaulukonis/sketches/tq02EeU4SO)<!-- 2024-05-01T01:26:00.794Z -->  
-[shader one redux copy](https://editor.p5js.org/MichaelPaulukonis/sketches/ZurPZLLcC)<!-- 2025-01-20T04:25:00.694Z -->  
-[shifty rose thief](https://editor.p5js.org/MichaelPaulukonis/sketches/99iMKW8DC)<!-- 2025-01-02T18:28:18.745Z -->  
-[Shocking cereal](https://editor.p5js.org/MichaelPaulukonis/sketches/muTamuaqs)<!-- 2021-05-04T01:13:36.118Z -->  
-[Similar nova (zombie simulator)](https://editor.p5js.org/MichaelPaulukonis/sketches/PcG1hedh6)<!-- 2024-07-21T21:12:38.610Z -->  
-[Sine wave Draw copy](https://editor.p5js.org/MichaelPaulukonis/sketches/St-SloOXg)<!-- 2019-12-13T03:47:08.772Z -->  
-[Sine wave Draw copy copy](https://editor.p5js.org/MichaelPaulukonis/sketches/AMFXdWkgq)<!-- 2019-12-13T15:22:09.442Z -->  
-[single\_stroke\_ttf\_loader copy](https://editor.p5js.org/MichaelPaulukonis/sketches/2xq4NcVNy)<!-- 2025-01-02T18:55:21.887Z -->  
-[slitscan rotating letters](https://editor.p5js.org/MichaelPaulukonis/sketches/0H155g010)<!-- 2019-12-01T15:36:54.489Z -->  
-[smoothQuad copy](https://editor.p5js.org/MichaelPaulukonis/sketches/-Co01RW21)<!-- 2020-08-26T01:44:04.966Z -->  
-[Solid curiosity (agressive word cloud)](https://editor.p5js.org/MichaelPaulukonis/sketches/ZKhgvY4jx)<!-- 2024-07-26T19:23:00.481Z -->  
-[SonicPainter](https://editor.p5js.org/MichaelPaulukonis/sketches/LZShpxDvP)<!-- 2019-12-27T02:44:41.456Z -->  
-[Spectacled fernleaf](https://editor.p5js.org/MichaelPaulukonis/sketches/gKl63i1_F)<!-- 2024-06-02T03:54:53.714Z -->  
-[Spiracule](https://editor.p5js.org/MichaelPaulukonis/sketches/ZbN-pzGWC)<!-- 2019-12-18T22:27:39.926Z -->  
-[sprite avoidance](https://editor.p5js.org/MichaelPaulukonis/sketches/hBqz23zjm)<!-- 2024-08-08T03:03:14.631Z -->  
-[starmaker](https://editor.p5js.org/MichaelPaulukonis/sketches/avPkijCbk)<!-- 2024-07-22T03:02:52.837Z -->  
-[Storm question](https://editor.p5js.org/MichaelPaulukonis/sketches/ifC5iWpqc)<!-- 2024-06-27T02:41:16.962Z -->  
-[stupendous spinners copy](https://editor.p5js.org/MichaelPaulukonis/sketches/5dLbcWfEX)<!-- 2021-06-22T02:19:20.390Z -->  
-[Sulky rook (gridified wordicles)](https://editor.p5js.org/MichaelPaulukonis/sketches/KsUKw_XBJ)<!-- 2024-07-26T20:02:13.725Z -->  
-[supershifty rose thief](https://editor.p5js.org/MichaelPaulukonis/sketches/mLtUitmYT)<!-- 2025-01-05T17:13:54.061Z -->  
-[text around center point](https://editor.p5js.org/MichaelPaulukonis/sketches/MpnlsFsF-)<!-- 2019-12-14T16:38:11.389Z -->  
-[text on Bezier curve](https://editor.p5js.org/MichaelPaulukonis/sketches/Reg-I-mkS)<!-- 2019-12-15T19:36:40.572Z -->  
-[text on curves](https://editor.p5js.org/MichaelPaulukonis/sketches/83yh0IBOo)<!-- 2019-12-06T01:06:13.296Z -->  
-[text on curves with bounce](https://editor.p5js.org/MichaelPaulukonis/sketches/6Zezs2EQr)<!-- 2019-12-12T20:47:43.387Z -->  
-[text spinners](https://editor.p5js.org/MichaelPaulukonis/sketches/Bx4xgQXzq)<!-- 2021-06-22T02:23:49.222Z -->  
-[text window](https://editor.p5js.org/MichaelPaulukonis/sketches/j_KYdwQV3)<!-- 2020-07-28T03:11:27.640Z -->  
-[text-mask copy](https://editor.p5js.org/MichaelPaulukonis/sketches/ulylt5TLT)<!-- 2023-07-30T15:25:39.788Z -->  
-[Textual Colour Wave copy](https://editor.p5js.org/MichaelPaulukonis/sketches/RiAAd9-aF)<!-- 2019-11-25T03:13:23.750Z -->  
-[Threshold Image copy](https://editor.p5js.org/MichaelPaulukonis/sketches/gYQ-_0BHv)<!-- 2021-10-08T02:39:48.420Z -->  
-[tile shifter](https://editor.p5js.org/MichaelPaulukonis/sketches/VFDMeu5cT)<!-- 2024-05-03T18:30:49.109Z -->  
-[tile shifter copy](https://editor.p5js.org/MichaelPaulukonis/sketches/52_sPSLsp)<!-- 2024-05-03T18:59:16.326Z -->  
-[tile shuffler](https://editor.p5js.org/MichaelPaulukonis/sketches/Y8SJ8M3sJ)<!-- 2024-05-03T12:18:51.769Z -->  
-[tracery template iterates copy](https://editor.p5js.org/MichaelPaulukonis/sketches/zEId00oE-)<!-- 2021-06-22T02:33:21.117Z -->  
-[transparent fragment](https://editor.p5js.org/MichaelPaulukonis/sketches/IwkZm2zFw)<!-- 2024-05-26T03:53:52.555Z -->  
-[Transparent Image with Outline](https://editor.p5js.org/MichaelPaulukonis/sketches/_5mvbmup3)<!-- 2024-06-08T03:01:42.654Z -->  
-[tri tie](https://editor.p5js.org/MichaelPaulukonis/sketches/JQPknr86D)<!-- 2024-09-17T02:58:15.647Z -->  
-[tri tie copy](https://editor.p5js.org/MichaelPaulukonis/sketches/KY6VGXUWw)<!-- 2024-09-17T03:10:37.797Z -->  
-[triangular transparency](https://editor.p5js.org/MichaelPaulukonis/sketches/SABw0hDiw)<!-- 2024-05-26T01:11:50.273Z -->  
-[TURDULENCE2 - P5JS to Hydra copy](https://editor.p5js.org/MichaelPaulukonis/sketches/nYxZsIB3I)<!-- 2022-02-15T03:46:44.341Z -->  
-[two toned](https://editor.p5js.org/MichaelPaulukonis/sketches/ZiCGsuVpy)<!-- 2025-01-06T21:45:36.681Z -->  
-[Underwater Boiled toaster](https://editor.p5js.org/MichaelPaulukonis/sketches/jYC8HpNEj)<!-- 2025-01-24T02:45:56.577Z -->  
-[unsettling type flow with text box and trigonometry copy](https://editor.p5js.org/MichaelPaulukonis/sketches/cOK_Ip4QC)<!-- 2021-06-22T02:34:33.395Z -->  
-[variable font noise copy](https://editor.p5js.org/MichaelPaulukonis/sketches/4sM_emx47)<!-- 2021-06-22T02:32:07.395Z -->  
-[Various ice (bounce text)](https://editor.p5js.org/MichaelPaulukonis/sketches/09BJ7RCvM)<!-- 2019-12-15T19:52:52.284Z -->  
-[vector selection transparent and drag](https://editor.p5js.org/MichaelPaulukonis/sketches/kOTN9Q175)<!-- 2024-06-16T15:22:07.811Z -->  
-[vector selection transparent crop](https://editor.p5js.org/MichaelPaulukonis/sketches/DZntws93M)<!-- 2024-06-15T19:40:34.092Z -->  
-[vector shapes](https://editor.p5js.org/MichaelPaulukonis/sketches/2A8ApZA9z)<!-- 2024-05-26T01:57:12.938Z -->  
-[video capture on mobile test copy](https://editor.p5js.org/MichaelPaulukonis/sketches/E3bX6n3Fr)<!-- 2020-01-24T04:01:57.830Z -->  
-[WATMAP Bony abacus copy](https://editor.p5js.org/MichaelPaulukonis/sketches/gtXuRG_9P)<!-- 2022-02-15T03:44:10.732Z -->  
-[webcam echo delay](https://editor.p5js.org/MichaelPaulukonis/sketches/l6n0sjlwG)<!-- 2020-01-26T18:17:39.049Z -->  
-[WK9 HSB &  HSL Analogous Color Schemes copy](https://editor.p5js.org/MichaelPaulukonis/sketches/1h9SuzNQm)<!-- 2021-09-26T23:56:15.462Z -->  
-[WK9 HSB & HSL Complementary Color Schemes copy](https://editor.p5js.org/MichaelPaulukonis/sketches/tboRXJhBm)<!-- 2021-09-26T23:57:23.350Z -->  
-[WK9 HSB & HSL Triadic Color Schemes copy](https://editor.p5js.org/MichaelPaulukonis/sketches/p2PG4tE80)<!-- 2021-09-26T23:57:01.432Z -->  
-[worms](https://editor.p5js.org/MichaelPaulukonis/sketches/nbV4qHVW_)<!-- 2019-12-19T03:20:25.440Z -->  
-[Zoomification (virtual canvases)](https://editor.p5js.org/MichaelPaulukonis/sketches/TqxDW04dB)<!-- 2024-06-21T15:55:08.029Z -->  
+# Sketches for p5name
+35 sketches  
+[2024-01-11 pound-genuary11](../../p5projects/2024-01-11%20pound-genuary11-zSFx_e8ZD) [[p5js](https://editor.p5js.org/p5name/sketches/zSFx_e8ZD)]<!-- 2024-03-08T10:59:11.911Z -->  
+[2024-11-18-iframe\_player](../../p5projects/2024-11-18-iframe_player-OQnvyyVX) [[p5js](https://editor.p5js.org/p5name/sketches/-OQnvyyVX)]<!-- 2024-11-18T22:44:23.062Z -->  
+[background     0](../../p5projects/background%200-NAReIkM1c) [[p5js](https://editor.p5js.org/p5name/sketches/NAReIkM1c)]<!-- 2024-04-14T18:27:00.480Z -->  
+[bodyPose-skeleton copy](../../p5projects/bodyPose-skeleton%20copy-Em_8gOqxd) [[p5js](https://editor.p5js.org/p5name/sketches/Em_8gOqxd)]<!-- 2025-11-14T20:12:00.854Z -->  
+[Chisel bobcat](../../p5projects/Chisel%20bobcat-ySQ-S2O5d) [[p5js](https://editor.p5js.org/p5name/sketches/ySQ-S2O5d)]<!-- 2024-09-23T15:01:06.373Z -->  
+[duplicate](../../p5projects/duplicate-TdzEIUUD5) [[p5js](https://editor.p5js.org/p5name/sketches/TdzEIUUD5)]<!-- 2023-12-29T04:05:50.796Z -->  
+[duplicate](../../p5projects/duplicate-kWtHbrdjf) [[p5js](https://editor.p5js.org/p5name/sketches/kWtHbrdjf)]<!-- 2023-12-29T04:05:43.114Z -->  
+[firebase mo-gallery-ppt copy](../../p5projects/firebase%20mo-gallery-ppt%20copy-8jzqiCbbk) [[p5js](https://editor.p5js.org/p5name/sketches/8jzqiCbbk)]<!-- 2024-10-31T13:40:17.433Z -->  
+[FuncyChars \!@\#$%^&\*()\_-+=\{\[\}\]\|\:;"'\<,\>.?/](../../p5projects/FuncyChars%20!%40%23%24%25%5E%26()_-%2B%3D%5B%5D%7C%3B'%2C.-8fkJQUg8Y) [[p5js](https://editor.p5js.org/p5name/sketches/8fkJQUg8Y)]<!-- 2023-12-29T03:05:08.625Z -->  
+[image  array sin copy](../../p5projects/image%20array%20sin%20copy-3K6pk1kI6) [[p5js](https://editor.p5js.org/p5name/sketches/3K6pk1kI6)]<!-- 2023-12-28T23:30:12.432Z -->  
+[ims black-n rgg shape](../../p5projects/ims%20black-n%20rgg%20shape-E_hAnmkzr) [[p5js](https://editor.p5js.org/p5name/sketches/E_hAnmkzr)]<!-- 2025-01-19T22:36:37.259Z -->  
+[ims black-n rgg-1 bounce](../../p5projects/ims%20black-n%20rgg-1%20bounce-bpUutVbYo) [[p5js](https://editor.p5js.org/p5name/sketches/bpUutVbYo)]<!-- 2025-01-18T22:02:18.220Z -->  
+[ims black-n rgg-1 bounce copy](../../p5projects/ims%20black-n%20rgg-1%20bounce%20copy-LYxwpUWAG) [[p5js](https://editor.p5js.org/p5name/sketches/LYxwpUWAG)]<!-- 2025-01-21T22:48:27.088Z -->  
+[ims black-n rgg-1 gitter](../../p5projects/ims%20black-n%20rgg-1%20gitter-IfOxC4gMZ) [[p5js](https://editor.p5js.org/p5name/sketches/IfOxC4gMZ)]<!-- 2025-01-19T01:40:36.180Z -->  
+[ims black-n rgg-1 noise](../../p5projects/ims%20black-n%20rgg-1%20noise-vlm26-OWl) [[p5js](https://editor.p5js.org/p5name/sketches/vlm26-OWl)]<!-- 2025-01-19T01:35:36.899Z -->  
+[ims black-n white-1 bounce copy](../../p5projects/ims%20black-n%20white-1%20bounce%20copy-yeNilEnD4) [[p5js](https://editor.p5js.org/p5name/sketches/yeNilEnD4)]<!-- 2025-02-13T15:40:30.202Z -->  
+[ims black-n white-1 copy](../../p5projects/ims%20black-n%20white-1%20copy-OX8NM-0MQ) [[p5js](https://editor.p5js.org/p5name/sketches/OX8NM-0MQ)]<!-- 2024-01-26T03:26:39.630Z -->  
+[ims black-n white-1 copy](../../p5projects/ims%20black-n%20white-1%20copy-nvk_blNlZ) [[p5js](https://editor.p5js.org/p5name/sketches/nvk_blNlZ)]<!-- 2024-03-08T11:11:05.545Z -->  
+[ims noise class](../../p5projects/ims%20noise%20class-TU9CrJ1di) [[p5js](https://editor.p5js.org/p5name/sketches/TU9CrJ1di)]<!-- 2025-01-23T14:31:24.906Z -->  
+[ims noise class trim](../../p5projects/ims%20noise%20class%20trim-MK6RGpvmi) [[p5js](https://editor.p5js.org/p5name/sketches/MK6RGpvmi)]<!-- 2025-01-23T14:47:24.102Z -->  
+[ims noise rotate](../../p5projects/ims%20noise%20rotate-ZO-2p0H5_) [[p5js](https://editor.p5js.org/p5name/sketches/ZO-2p0H5_)]<!-- 2025-01-19T19:40:33.931Z -->  
+[ims perlin v1](../../p5projects/ims%20perlin%20v1-h2G8X82wt) [[p5js](https://editor.p5js.org/p5name/sketches/h2G8X82wt)]<!-- 2025-01-20T23:44:26.989Z -->  
+[ims perlin v2](../../p5projects/ims%20perlin%20v2-Ce9F9d_lu) [[p5js](https://editor.p5js.org/p5name/sketches/Ce9F9d_lu)]<!-- 2025-01-23T02:00:50.744Z -->  
+[ims perlin v3](../../p5projects/ims%20perlin%20v3-tBsa6f3od) [[p5js](https://editor.p5js.org/p5name/sketches/tBsa6f3od)]<!-- 2025-01-23T13:00:43.496Z -->  
+[ims perlin v4](../../p5projects/ims%20perlin%20v4-FdAetYG8Y) [[p5js](https://editor.p5js.org/p5name/sketches/FdAetYG8Y)]<!-- 2025-01-23T13:05:38.865Z -->  
+[ims perlin v5](../../p5projects/ims%20perlin%20v5-eQfSExLDa) [[p5js](https://editor.p5js.org/p5name/sketches/eQfSExLDa)]<!-- 2025-01-23T13:27:26.217Z -->  
+[ims perlin v6](../../p5projects/ims%20perlin%20v6-tukMKmuXP) [[p5js](https://editor.p5js.org/p5name/sketches/tukMKmuXP)]<!-- 2025-01-23T13:30:52.667Z -->  
+[ims perlin v6 colors](../../p5projects/ims%20perlin%20v6%20colors-Xqty0l39k) [[p5js](https://editor.p5js.org/p5name/sketches/Xqty0l39k)]<!-- 2025-01-23T16:54:26.080Z -->  
+[ims perlin v6 deltaTime](../../p5projects/ims%20perlin%20v6%20deltaTime-LLhJrWagm) [[p5js](https://editor.p5js.org/p5name/sketches/LLhJrWagm)]<!-- 2025-01-23T13:50:32.491Z -->  
+[ims perlin v6 reverse](../../p5projects/ims%20perlin%20v6%20reverse-ev0PtLO79) [[p5js](https://editor.p5js.org/p5name/sketches/ev0PtLO79)]<!-- 2025-01-23T14:18:23.754Z -->  
+[ims perlin v7 colors](../../p5projects/ims%20perlin%20v7%20colors-p261KC1ow) [[p5js](https://editor.p5js.org/p5name/sketches/p261KC1ow)]<!-- 2025-01-23T17:31:28.106Z -->  
+[mo-gallery alter-ego](../../p5projects/mo-gallery%20alter-ego-9GXXTQNgP) [[p5js](https://editor.p5js.org/p5name/sketches/9GXXTQNgP)]<!-- 2024-12-11T00:37:55.372Z -->  
+[mo-gallery-rroom renewal-rroom](../../p5projects/mo-gallery-rroom%20renewal-rroom-td6gIUqHZ) [[p5js](https://editor.p5js.org/p5name/sketches/td6gIUqHZ)]<!-- 2024-11-18T16:19:19.263Z -->  
+[shapes random innerCount v25 copy](../../p5projects/shapes%20random%20innerCount%20v25%20copy-HxcFUW3jN) [[p5js](https://editor.p5js.org/p5name/sketches/HxcFUW3jN)]<!-- 2025-08-26T17:17:07.390Z -->  
+[Transience omi v2](../../p5projects/Transience%20omi%20v2-tnZBaj1rs) [[p5js](https://editor.p5js.org/p5name/sketches/tnZBaj1rs)]<!-- 2025-04-23T15:43:41.649Z -->  

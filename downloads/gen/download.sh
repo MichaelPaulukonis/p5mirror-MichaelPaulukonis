@@ -1,1 +1,8 @@
-echo
+echo download 1 "bodyPose-skeleton copy-Em_8gOqxd"
+curl -s https://editor.p5js.org/editor/projects/Em_8gOqxd/zip -o "/Users/michaelpaulukonis/projects/p5mirror-MichaelPaulukonis/downloads/zips/bodyPose-skeleton copy-Em_8gOqxd.zip"
+echo download 2 "shapes random innerCount v25 copy-HxcFUW3jN"
+curl -s https://editor.p5js.org/editor/projects/HxcFUW3jN/zip -o "/Users/michaelpaulukonis/projects/p5mirror-MichaelPaulukonis/downloads/zips/shapes random innerCount v25 copy-HxcFUW3jN.zip"
+echo download 3 "Transience omi v2-tnZBaj1rs"
+curl -s https://editor.p5js.org/editor/projects/tnZBaj1rs/zip -o "/Users/michaelpaulukonis/projects/p5mirror-MichaelPaulukonis/downloads/zips/Transience omi v2-tnZBaj1rs.zip"
+echo download 4 "ims black-n white-1 bounce copy-yeNilEnD4"
+curl -s https://editor.p5js.org/editor/projects/yeNilEnD4/zip -o "/Users/michaelpaulukonis/projects/p5mirror-MichaelPaulukonis/downloads/zips/ims black-n white-1 bounce copy-yeNilEnD4.zip"
